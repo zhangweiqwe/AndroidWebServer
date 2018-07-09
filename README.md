@@ -4,8 +4,7 @@ AndroidWebServer base on jetty
 If you have questions, please contact zh857899299@gmail.com or 857899299@qq.com
 
 
-#### 项目演示
-|个人首页|微博列表|
+#### Jetty
 |:---:|:---:|
 |![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/1.png)|![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/2.png)|
 
