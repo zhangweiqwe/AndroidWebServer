@@ -28,7 +28,7 @@ http://www.wsgwz.cn
 
 ## 已知的问题 ##
 
-  * 由于android.jar 缺少javax and java.lang.* 及其他包下的java支持，不能完整运行jsp
+  * 由于android.jar 缺少javax and java.lang.* 及其他包下的很大部分java支持，不能完整运行jsp
   * 数据库使用room，底层也是sqlite，未使用contentProvider，并不知道多进程安全性，请不要将webServer单独放在独立的进程里
   * 设计用户管理系统的时候疏忽了客户端token过期的enum Result code example 1000，请检查Result枚举并添加
 
