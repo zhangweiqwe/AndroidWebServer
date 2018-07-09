@@ -6,19 +6,22 @@ If you have questions, please contact zh857899299@gmail.com or 857899299@qq.com
 
 
 #### Jetty
-|个人首页|微博列表|
+|默认服务|webServer开启|
 |:---:|:---:|
 |![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/1.png)|![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/2.png)|
 
+|数据库user表|添加数据|
+|:---:|:---:|
+|![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/3.png)|![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/4.png)|
 
-<img src="https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/1.png"  width="338" height="600" />
-<img src="https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/2.png"  width="338" height="600" />
-<img src="https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/3.png"  width="338" height="600" />
-<img src="https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/4.png"  width="338" height="600" />
-<img src="https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/5.png"  width="338" height="600" />
-<img src="https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/6.png"  width="338" height="600" />
-<img src="https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/7.png"  width="338" height="600" />
-<img src="https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/8.png"  width="338" height="600" />
+|other|更新某行数据|
+|:---:|:---:|
+|![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/5.png)|![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/6.png)|
+
+|查看数据表|自定义查询语句|
+|:---:|:---:|
+|![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/7.png)|![](https://raw.githubusercontent.com/zhangweiqwe/AndroidWebServer/master/8.png)|
+
 
 http://www.wsgwz.cn
 
@@ -42,3 +45,4 @@ http://www.wsgwz.cn
 
 <a name="FAQ0"></a>
 [**About Jetty**](http://www.eclipse.org/jetty/)
+[**About SqliteManager**](https://github.com/Ashok-Varma/SqliteManager)
